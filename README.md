@@ -1,2 +1,6 @@
 # Bingo-Generator
-Provide Square PNG's and it will generate a Bingo Card as an A4 PNG file.
+
+## Use
+- Export the Bingo Template SVG to a PNG at 300DPI
+- Place the Images that you wish to create a Bingo objects with in a folder called "Images"
+- Run the "Create Bingo" python script
